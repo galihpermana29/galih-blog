@@ -9,15 +9,15 @@ export default function Home() {
 	return (
 		<div>
 			<Head>
-				<title>Galih's Blog</title>
+				<title>Galihs Blog</title>
 				<meta
 					name="description"
-					content="This blog contains Galih Permana's writings and sharing the knowledge that I have learned. The writings on this blog may not always be related to IT but can also be about my hobbies or my favorite football club."
+					content="This blog contains Galih Permana writings and sharing the knowledge that I have learned. The writings on this blog may not always be related to IT but can also be about my hobbies or my favorite football club."
 				/>
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 
-			<main className="">
+			<main>
 				<MainHeader />
 				<CardSection />
 			</main>
