@@ -15,7 +15,7 @@ const CardContent = ({
 								realease ? 'bg-blue-400' : 'bg-red-400'
 							} w-fit rounded-full px-3 py-1 text-white text-[14px] mb-5`}
 						>
-							{realease ? 'Realeased' : 'Soon'}
+							{realease ? 'Released' : 'Soon'}
 						</p>
 						<p className="text-[#228678] text-[35px] md:text-[40px] lg:text-[42px] font-semibold">
 							{subject}
